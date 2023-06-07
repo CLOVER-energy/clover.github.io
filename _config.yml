@@ -1,4 +1,7 @@
+baseurl: /CLOVER
+description: Repository for the CLOVER-energy Github organisation
+email: organisation.email@top.level.domain
+github: https://github.com/CLOVER-energy/CLOVER
 theme: jekyll-theme-slate
 title: CLOVER
-description: Repository for the CLOVER-energy Github organisation
-baseurl: /CLOVER
+
