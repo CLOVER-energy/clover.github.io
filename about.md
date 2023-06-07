@@ -1,4 +1,7 @@
 ---
+title: about
+permalink: /about.html
+
 ---
 
 # About
