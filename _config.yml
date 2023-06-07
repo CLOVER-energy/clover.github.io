@@ -2,6 +2,7 @@ description: Repository for the CLOVER-energy Github organisation
 email: organisation.email@top.level.domain
 github:
   repository_url: https://github.com/CLOVER-energy/CLOVER
+  zip_url: https://github.com/CLOVER-energy/CLOVER/archive/refs/heads/master.zip
 title: CLOVER
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
