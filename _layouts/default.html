@@ -20,8 +20,6 @@
     <header>
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-      {% include navigation.html %}
-      
       {% if site.logo %}
         <img src="{{site.logo | relative_url}}" alt="Logo" />
       {% endif %}
@@ -44,16 +42,17 @@
       </ul>
       {% endif %}
     </header>
+    
     <section>
-
+    {% include navigation.html %}
+      
     {{ content }}
-
+    <!-- FOOTER  -->
+      <div id="footer_wrap" class="outer">
+        {% include footer.html %}
+      </div>
     </section>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      {% include footer.html %}
-    </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
