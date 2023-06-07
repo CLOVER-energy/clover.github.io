@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /readme.html
 title: Home
 
 ---
