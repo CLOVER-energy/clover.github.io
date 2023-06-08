@@ -1,7 +1,8 @@
-<nav>
-    <ul id="main_menu">
-        <li><a class="nav-link" href="README.html">Home</a></li>
-        <li><a class="nav-link" href="about.html">About</a></li>
+{% for item in site.pagelist.sidebar_pages %}
+  <h3>{{ item.title }}</h3>
+    <ul>
+      <li class="{% if item.url == page.url %}active{% endif %}">
+          <a href="{{ item.url }}">{{ entry.title }}</a>
+      </li>
     </ul>
-</nav>
-<hr>
+{% endfor %}
