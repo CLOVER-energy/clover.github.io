@@ -117,6 +117,12 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
+a:active {
+  text-decoration: none;
+  color: lightgray;
+  text-shadow: none;
+}
+
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
