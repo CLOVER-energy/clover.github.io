@@ -1,0 +1,11 @@
+---
+################################################################################
+# pagelist.yaml - List of all pages on the site                                #
+#                                                                              #
+################################################################################
+
+sidebar_pages:
+  - title: Home
+    url: readme.html
+  - title: About
+    url: about.html
