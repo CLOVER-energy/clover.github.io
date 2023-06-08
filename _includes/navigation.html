@@ -1,4 +1,4 @@
-{% for item in site.pagelist %}
+{% for item in site.pagelist.sidebar_pages %}
   <h3>{{ item.title }}</h3>
     <ul>
       <li class="{% if item.url == page.url %}active{% endif %}">
