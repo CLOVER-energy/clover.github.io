@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-ol, ul {
+ol {
   list-style: none;
 }
 
@@ -191,7 +191,7 @@ blockquote {
 }
 
 
-ul, ol, dl {
+ol, dl {
   margin-bottom: 15px
 }
 
