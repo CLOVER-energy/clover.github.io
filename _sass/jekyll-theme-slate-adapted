@@ -402,6 +402,11 @@ background-color: #ff0000;
 border: 3px solid;
 }
 
+.result li.active a {
+    color: lightgray;
+    cursor: default;
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
