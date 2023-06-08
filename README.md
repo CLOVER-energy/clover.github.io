@@ -16,7 +16,7 @@ CLOVER (Continuous Lifetime Optimisation of Variable Electricity Resources) is a
 
 ## About
 
-{% include relative about.md %}
+{% include about.md %}
 
 ## Cite us
 
