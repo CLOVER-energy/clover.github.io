@@ -109,7 +109,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #0F79D0;
+  color: #0a77aa;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -135,7 +135,7 @@ a:active {
 }
 
 footer a {
-  color: #F2F2F2;
+  color: #0a77aa;
   text-decoration: underline;
 }
 
@@ -247,7 +247,7 @@ li a:active {
 /* Style the links inside the navigation bar */
 .sidenav a {
   float: left;
-  color: #f2f2f2;
+  color: #0a77aa;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
