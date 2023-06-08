@@ -4,6 +4,7 @@
 #                                                                              #
 ################################################################################
 
+filename: Key pages
 sidebar_pages:
   - title: Home
     url: readme.html
