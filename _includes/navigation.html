@@ -11,7 +11,7 @@ Links without div class: <br/>
   <li class="{% if  "/" + doc.url == page.url %}active{% endif %}" href="{{ doc.url }}">
     <a class="{% if  "/" + doc.url == page.url %}active{% endif %}" href="{{ doc.url }}">{{ doc.title }}</a><br />
     Page url: {{ page.url }}<br />
-    Doc url: {{ doc.url }}<br />
+    Doc url: {{ "/" + doc.url }}<br />
   </li>
 {% endfor %}
 </ul>
