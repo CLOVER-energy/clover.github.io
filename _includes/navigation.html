@@ -9,7 +9,7 @@ Links without div class: <br/>
 <ul class="sidenav">
 {% for doc in site.data.pagelist.sidebar_pages %}
   <li class="{% if doc.permalink == page.url %}active{% endif %}" href="{{ doc.url }}">
-  <a href="{{ doc.url }}">{{ doc.title }}</a>
+  <a class="{% if doc.permalink == page.url %}active{% endif %}" href="{{ doc.url }}">{{ doc.title }}</a>
   </li>
 {% endfor %}
 </ul>
