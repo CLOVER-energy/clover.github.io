@@ -17,6 +17,9 @@ Maximising the benefits of renewable energy infrastructure in displacement setti
 
 - Reena Sayani, Paloma Ortega-Arriaga, Philip Sandwell, Oytun Babacan, Ajay Gambhir, Darren Robinson and Jenny Nelson, Sizing solar-based mini-grids for growing electricity demand: Insights from rural India, Journal of Physics: Energy, Volume 5, Number 1, 2022, <a href="https://doi.org/10.1088/2515-7655/ac9dc0">https://doi.org/10.1088/2515-7655/ac9dc0</a>
 
+- Anaïs Matthey-Junod, Philip Sandwell, Solomzi Makohliso, Klaus Schönenberger,
+Leaving no aspect of sustainability behind: A framework for designing sustainable energy interventions applied to refugee camps, Energy Research & Social Science, Volume 90, 2022, <a href="https://doi.org/10.1016/j.erss.2022.102636">https://doi.org/10.1016/j.erss.2022.102636.</a>
+
 - Sheridan Few, John Barton, Philip Sandwell, Richard Mori, Prasad Kulkarni, Murray Thomson, Jenny Nelson, Chiara Candelise,
 Electricity demand in populations gaining access: Impact of rurality and climatic conditions, and implications for microgrid design, Energy for Sustainable Development,Volume 66, 2022, <a href="https://doi.org/10.1016/j.esd.2021.11.008.">https://doi.org/10.1016/j.esd.2021.11.008.</a>
 
