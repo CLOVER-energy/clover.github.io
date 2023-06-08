@@ -24,6 +24,11 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+:root {
+  --background-light: #f2f2f2;
+  --background-dark: #212121;
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -45,12 +50,18 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
-  background: #212121;
+  color: #373737;
+  background: var(--background-light);
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: var(--background-dark);
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
