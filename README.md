@@ -14,6 +14,10 @@ CLOVER (Continuous Lifetime Optimisation of Variable Electricity Resources) is a
 
 ---
 
+## About
+
+{% include relative about.md %}
+
 ## Cite us
 
 You can cite the CLOVER-energy/CLOVER project by citing the following papers:
