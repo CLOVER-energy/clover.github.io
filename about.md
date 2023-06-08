@@ -5,5 +5,6 @@ title: about
 url: about.html
 
 ---
+# About
 
 {% include about.md %}
