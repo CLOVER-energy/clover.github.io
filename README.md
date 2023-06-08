@@ -7,15 +7,15 @@ url: readme.html
 
 ---
 
-# CLOVER-energy-website
-A website for the CLOVER-energy organisation.
+# CLOVER
+CLOVER (Continuous Lifetime Optimisation of Variable Electricity Resources) is a modelling framework enabling the simulation and optimisation of community-scale energy systems, typically minigrids, to support energy access in developing countries [[1]]. It is a framework under constant development, with new features being added, and has been applied to many different scenarios and case studies. (See the [publications page](publications.html) for more information.)
 
-## 🐛 Available pages
-Space for debugging.
 
-Print variables:
-Related posts: {{ site.related_posts }}
-Pagelist: {{ site.pagelist.sidebar_pages }}
+### References
+<a id="1">[1]</a>
+Sandwell, P., Winchester, B., Beath, H., & Nelson, J. (2023). CLOVER: A modelling framework for sustainable community-scale energy systems. _Journal of Open Source Software_, 8(82), 4799, [https://doi.org/10.21105/joss.04799](https://doi.org/10.21105/joss.04799)
+
+---
 
 ## Cite us
 
