@@ -402,7 +402,7 @@ background-color: #ff0000;
 border: 3px solid;
 }
 
-#navigationbar {
+#navigation_bar {
   position: absolute;
   width: 210px;
   z-index: 10;
