@@ -8,6 +8,8 @@ url: publications.html
 ---
 
 # Publications
+Publications that describe or use the CLOVER model.
+
 - Philip Sandwell, Benedict Winchester, Hamish Beath, and
 Jenny Nelson, CLOVER: A modelling framework for sustainable
 community-scale energy systems, The Journal of Open Source Software 8 (82), 2023, <a href="https://doi.org/10.21105/joss.04799">https://doi.org/10.21105/joss.04799</a>
@@ -29,8 +31,3 @@ Volume 1,2021, 100003, <a href="https://doi.org/10.1016/j.rset.2021.100003">http
 
 - Javier Baranda Alonso, Philip Sandwell, Jenny Nelson, The potential for solar-diesel hybrid mini-grids in refugee camps: A case study of Nyabiheke camp, Rwanda, Sustainable Energy Technologies and Assessments, Volume 44, 2021, 101095, <a href="https://doi.org/10.1016/j.seta.2021.101095.">https://doi.org/10.1016/j.seta.2021.101095</a>  
 
-
-
-
-
-Publications that contain CLOVER.
