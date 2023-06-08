@@ -1,7 +1,8 @@
 ---
 include_sidebar: false
-title: about
 permalink: /about.html
+title: about
+url: about.html
 
 ---
 
