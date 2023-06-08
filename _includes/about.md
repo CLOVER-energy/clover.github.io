@@ -1,6 +1,3 @@
-# About
-
-
 The CLOVER energy system model has the following modules with related functionality and input requirements:
 
 #### Solar PV
