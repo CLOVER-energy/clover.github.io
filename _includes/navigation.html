@@ -1,16 +1,14 @@
 {% for item in site.data.pagelist.sidebar_pages %}
-  <h3>{{ item.title }}</h3>
-    <ul>
-      <li class="{% if item.url == page.url %}active{% endif %}">
-          <a href="{{ item.url }}">{{ entry.title }}</a>
-      </li>
-    </ul>
+  <li class="{% if item.url == page.url %}active{% endif %}">
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  </li>
 {% endfor %}
 
 <p>
   Print some variables: <br/>
   <ul>
-    <li>Site.pagelist: {{ site.data.pagelist }}</li>
+    <li>Related posts: {{ site.related_posts }}</li>
+    <li>Pagelist: {{ site.pagelist.sidebar_pages }}</li>
   </ul>
 </p>
 
