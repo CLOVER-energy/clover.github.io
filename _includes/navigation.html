@@ -2,7 +2,7 @@
 {% for doc in site.pages %}
   {% if doc.include_sidebar == true %}
   <li class="{% if doc.permalink == page.url %}active{% endif %}">
-    <a href="{{ doc.permalink }}">{{ doc.title }}</a>
+    <a href="{{ doc.url }}">{{ doc.title }}</a>
   </li>
   {% endif %}
 {% endfor %}
