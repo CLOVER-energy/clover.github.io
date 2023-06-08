@@ -14,8 +14,6 @@ The model operates with an hourly resolution and is designed to be able to simul
 
 <img src="infographic.png" alt="Infographic of CLOVER workflow" />
 
----
-
 ## About
 
 {% include about.md %}
