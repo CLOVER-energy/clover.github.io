@@ -1,4 +1,4 @@
-<ul>
+<ul class="sidenav">
 {% for doc in site.data.pagelist.sidebar_pages %}
   <li class="{% if doc.permalink == page.url %}active{% endif %}">
     <a href="{{ doc.url }}">{{ doc.title }}</a>
