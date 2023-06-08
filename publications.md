@@ -8,7 +8,7 @@ url: publications.html
 ---
 
 # Publications
-Publications that describe or use the CLOVER model.
+Publications that describe or use the CLOVER model:
 
 - Philip Sandwell, Benedict Winchester, Hamish Beath, and
 Jenny Nelson, CLOVER: A modelling framework for sustainable
