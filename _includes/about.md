@@ -6,7 +6,7 @@ The CLOVER Solar PV module takes inputs including location, orientation and tilt
 #### Solar PV-T
 The Solar PV-T module takes inputs similar to the [solar PV](#solar-pv) module but also takes in parameters specifying the thermal performance of the collectors as well as the flow rates of water which are permitted. The CLOVER model utilised hourly predicted solar irradiance and temperature estimates from the [Renewables.ninja](Renewables.ninja) API and computes the performance of the user-specified collectors.
 
-#### Solar Solar Thermal
+#### Solar Thermal
 The solar-thermal module, similar to both the [solar PV](#solar-pv) and [solar PV-T](#solar-pv-t) modules, takes in collector-specific information. Any collectors which have a quadratic performance curve can be inputted.
 
 #### Battery Storage
