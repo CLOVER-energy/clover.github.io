@@ -12,8 +12,8 @@ A website for the CLOVER-energy organisation.
 Space for debugging.
 
 Print variables:
-Related posts: {site.related_posts}
-Pagelist: {site.pagelist.sidebar_pages}
+Related posts: {{ site.related_posts }}
+Pagelist: {{ site.pagelist.sidebar_pages }}
 
 ## Cite us
 
