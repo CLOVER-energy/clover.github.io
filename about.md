@@ -5,13 +5,6 @@ title: about
 url: about.html
 
 ---
+# About
 
 {% include about.md %}
-
-The CLOVER energy system model has the following modules with related functionality and input requirements:
-
-**Solar PV**
-
-
-
-
