@@ -10,3 +10,7 @@ sidebar_pages:
     url: readme.html
   - title: About
     url: about.html
+  - title: Run guide
+    url: run_guide.html
+  - title: Publications
+    url: publications.html
