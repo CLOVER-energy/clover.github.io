@@ -8,6 +8,13 @@ title: Home
 # CLOVER-energy-website
 A website for the CLOVER-energy organisation.
 
+## 🐛 Available pages
+Space for debugging.
+
+Print variables:
+Related posts: {site.related_posts}
+Pagelist: {site.pagelist.sidebar_pages}
+
 ## Cite us
 
 You can cite the CLOVER-energy/CLOVER project by citing the following papers:
