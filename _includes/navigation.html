@@ -1,7 +1,9 @@
-{% for doc in site.docs %}
+<ul class="navigation_bar">
+{% for doc in site.pages %}
   {% if doc.include_sidebar == true %}
-  <li class="{% if item.url == page.url %}active{% endif %}">
-    <a href="{{ item.url }}">{{ item.title }}</a>
+  <li class="{% if doc.permalink == page.url %}active{% endif %}">
+    <a href="{{ doc.permalink }}">{{ doc.title }}</a>
   </li>
   {% endif %}
 {% endfor %}
+</ul>
