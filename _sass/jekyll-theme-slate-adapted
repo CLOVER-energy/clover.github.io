@@ -216,6 +216,11 @@ li a:hover {
   color: white;
 }
 
+li a:active {
+  background-color: lightgray;
+  color: white;
+}
+
 /* Add a black background color to the top navigation */
 .sidenav {
   background-color: #333;
