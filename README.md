@@ -3,6 +3,7 @@ include_sidebar: true
 layout: default
 permalink: /readme.html
 title: Home
+url: readme.html
 
 ---
 
