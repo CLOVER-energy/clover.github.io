@@ -1,15 +1,7 @@
-{% for item in site.data.pagelist.sidebar_pages %}
+{% for doc in site.docs %}
+  {% if doc.include_sidebar == true %}
   <li class="{% if item.url == page.url %}active{% endif %}">
     <a href="{{ item.url }}">{{ item.title }}</a>
   </li>
+  {% endif %}
 {% endfor %}
-
-<p>
-  Print some variables: <br/>
-  <ul>
-    <li>Related posts: {{ site.related_posts }}</li>
-    <li>Pagelist: {{ site.pagelist.sidebar_pages }}</li>
-  </ul>
-</p>
-
-      
