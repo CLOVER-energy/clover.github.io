@@ -402,6 +402,16 @@ background-color: #ff0000;
 border: 3px solid;
 }
 
+#navigationbar {
+  position: absolute;
+  width: 210px;
+  z-index: 10;
+  bottom: -40px;
+  right: 0;
+  height: 70px;
+  background: #darkgray;
+}
+
 .result li.active a {
     color: lightgray;
     cursor: default;
