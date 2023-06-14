@@ -1,7 +1,7 @@
 ---
 include_sidebar: true
 layout: default
-permalink: /readme.html
+permalink: /
 title: Home
 url: readme.html
 
