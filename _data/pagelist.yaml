@@ -7,7 +7,7 @@
 filename: Key pages
 sidebar_pages:
   - title: Home
-    url: readme.html
+    url: /
   - title: About
     url: about.html
   - title: Run guide
