@@ -7,6 +7,6 @@ github:
 title: CLOVER
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
-logo: clover_logo.png
+logo: clover_logo_recoloured.png
 plugins:
 - jekyll-remote-theme
