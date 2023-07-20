@@ -31,3 +31,4 @@ Volume 1,2021, 100003, <a href="https://doi.org/10.1016/j.rset.2021.100003">http
 
 - Javier Baranda Alonso, Philip Sandwell, Jenny Nelson, The potential for solar-diesel hybrid mini-grids in refugee camps: A case study of Nyabiheke camp, Rwanda, Sustainable Energy Technologies and Assessments, Volume 44, 2021, 101095, <a href="https://doi.org/10.1016/j.seta.2021.101095">https://doi.org/10.1016/j.seta.2021.101095</a>  
 
+- Philip Sandwell, Ned Ekins-Daukes, Jenny Nelson, What are the greatest opportunities for PV to contribute to rural development?, Energy Procedia, Volume 130, 2017, 139-149, <a href="https://doi.org/10.1016/j.egypro.2017.09.416">https://doi.org/10.1016/j.egypro.2017.09.416</a>
