@@ -10,6 +10,10 @@ url: publications.html
 # Publications
 Publications that describe or use the CLOVER model:
 
+- Hamish Beath, Shivika Mittal, Sheridan Few, Benedict Winchester, Philip Sandwell, Christos N Markides,
+Jenny Nelson, Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa,
+Nature Communications 15 (4172), 2024, <a href="https://www.nature.com/articles/s41467-024-48450-7">https://www.nature.com/articles/s41467-024-48450-7</a>
+
 - Philip Sandwell, Benedict Winchester, Hamish Beath, and
 Jenny Nelson, CLOVER: A modelling framework for sustainable
 community-scale energy systems, The Journal of Open Source Software 8 (82), 2023, <a href="https://doi.org/10.21105/joss.04799">https://doi.org/10.21105/joss.04799</a>
