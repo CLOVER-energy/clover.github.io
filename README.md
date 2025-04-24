@@ -21,5 +21,5 @@ The model operates with an hourly resolution and is designed to be able to simul
 ## Cite us
 
 You can cite the CLOVER-energy/CLOVER project by citing the following papers:
-1. Winchester, B., Beath, H., Nelson, J., & Sandwell, P. (2023). CLOVER (Version v5.0.7) [Computer software]. [https://doi.org/10.5281/zenodo.6925535](https://doi.org/10.5281/zenodo.6925535)
-2. Sandwell, P., Winchester, B., Beath, H., & Nelson, J. (2023). CLOVER: A modelling framework for sustainable community-scale energy systems. Journal of Open Source Software, 8(82), 4799, [https://doi.org/10.21105/joss.04799](https://doi.org/10.21105/joss.04799)
+1. Winchester, B., Beath, H., Nelson, J., & Sandwell, P. (2023). CLOVER (Version v5.3.0) [Computer software]. [https://doi.org/10.5281/zenodo.6925535](https://doi.org/10.5281/zenodo.6925535)
+2. Sandwell, P., Winchester, B., Beath, H., & Nelson, J. (2023). CLOVER: A modelling framework for sustainable community-scale energy systems. _Journal of Open Source Software_, **8**(82), 4799, [https://doi.org/10.21105/joss.04799](https://doi.org/10.21105/joss.04799)
