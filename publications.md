@@ -10,6 +10,8 @@ url: publications.html
 # Publications
 Publications that describe or use the CLOVER model:
 
+Adeoluwa Jimoh, Hamish Beath, Christos N Markides, Benedict Winchester, Enhancing solar mini-grid utilisation in farming communities: crop strategies to reduce costs and improve energy access. Environmental Research Letters, 2025, <a href="https://doi.org/10.1088/1748-9326/ADDBF2">https://doi.org/10.1088/1748-9326/ADDBF2</a> 
+
 - Hamish Beath, Shivika Mittal, Sheridan Few, Benedict Winchester, Philip Sandwell, Christos N Markides,
 Jenny Nelson, Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa,
 Nature Communications 15 (4172), 2024, <a href="https://www.nature.com/articles/s41467-024-48450-7">https://www.nature.com/articles/s41467-024-48450-7</a>
